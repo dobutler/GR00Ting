@@ -23,6 +23,6 @@ https://github.com/user-attachments/assets/43eb0285-2efa-4397-bbb5-ba14b82c6174
 
 References: 
 
-https://github.com/NVIDIA/Isaac-GR00T
+https://github.com/NVIDIA/Isaac-GR00T··
 https://github.com/simpler-env/SimplerEnv
 
